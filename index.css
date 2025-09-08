@@ -12,3 +12,16 @@ table td {
     padding: 10px;
     border: 1px solid #2a2a2a;
 }
+.proba{
+    color: greenyellow;
+    background-color: black;
+    border: 5px solid #D2691E;
+    border-radius:10px;
+    cursor:wait;
+}
+.zagolovok{
+    color:red
+}
+ol #number_list{
+    color:blueviolet
+}
