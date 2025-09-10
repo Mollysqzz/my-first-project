@@ -20,8 +20,22 @@ table td {
     cursor:wait;
 }
 .zagolovok{
-    color:red
+    color:red;
 }
 ol #number_list{
-    color:blueviolet
+    color:blueviolet;
+}
+.homework{
+    font-size:medium;
+    color:#7CFC00;
+}
+.homework:hover,
+.homework:focus{
+color:mediumpurple;
+}
+.sinex tr:hover{
+background-color: cornflowerblue;
+}
+.cirkul td:hover{
+background-color: red;
 }
